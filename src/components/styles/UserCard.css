@@ -12,6 +12,7 @@ span {
   max-width: 350px;
   font-family: 'Raleway', sans-serif;
   transition: box-shadow .3s ease;
+  height: fit-content;
 }
 .card:hover{
   box-shadow: 0px 0px 10px rgb(101, 101, 101);
