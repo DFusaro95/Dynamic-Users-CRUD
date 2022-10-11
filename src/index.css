@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Creepster&family=Lacquer&family=Raleway:ital,wght@0,200;0,400;0,700;1,200;1,400;1,700&family=Rubik+Glitch&display=swap');
+
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0
+}
+
+h1, h2, h3, h4, p, ul {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+button {
+  border: none;
+}
+
+input{
+  outline: none;
+  border: none;
+}
