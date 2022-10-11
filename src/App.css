@@ -200,6 +200,13 @@
 #dark .footer__container{
   background-color: rgb(122, 51, 0);
 }
+#dark .form{
+  background-color: rgb(122, 51, 0);
+  color: rgb(249, 235, 217);
+}
+#dark .close__button {
+  background-color: rgb(122, 51, 0);
+}
 
 @media (min-height: 1001px) {
   .App{
